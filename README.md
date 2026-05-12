@@ -47,7 +47,7 @@ If you use this code, please cite:
 
 N. Masuyama, Y. Nojima, S. Wermter, Y. Toda, H. Ishibuchi, and C. K. Loo,
 "PHIDA: Persistence-Guided Node-to-Cluster Mapping for Online Clustering,"
-arXiv preprint arXiv:XXXX.XXXXX, 2026.
+arXiv preprintarXiv:2605.08673 [cs.LG], 2026.
 
 ## License
 
