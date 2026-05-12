@@ -46,7 +46,7 @@ The script prints the number of nodes, number of clusters, runtime, ARI, and AMI
 If you use this code, please cite:
 
 N. Masuyama, Y. Nojima, S. Wermter, Y. Toda, H. Ishibuchi, and C. K. Loo,
-"PHIDA: Persistence-Guided Node-to-Cluster Mapping for Online Clustering,"
+"[PHIDA: Persistence-Guided Node-to-Cluster Mapping for Online Clustering](https://arxiv.org/abs/2605.08673),"
 arXiv preprint arXiv:2605.08673 [cs.LG], 2026.
 
 ## License
